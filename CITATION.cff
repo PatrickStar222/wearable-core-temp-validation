@@ -5,7 +5,7 @@ version: 1.0.0
 date-released: 2026-10-21
 license: MIT
 authors:
-  - family-names: "TODO"
-    given-names: "TODO"
-    note: "fill in the author list and affiliation before publication"
+  - family-names: "Zhou"          # 姓
+    given-names: "Ziheng"             # 名
+    affiliation: "Jiangnan University"
 type: software
