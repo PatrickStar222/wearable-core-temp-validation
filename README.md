@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1428406687.svg)](https://doi.org/10.5281/zenodo.23535545)
+
 # Condition-dependent validation of wearable core temperature monitoring — analysis code
 
 Analysis code for the manuscript *"Condition-dependent validation of wearable core temperature
