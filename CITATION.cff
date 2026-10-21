@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript."
+title: "Analysis code for: Condition-dependent validation of wearable core temperature monitoring across sensing configurations and thermal environments"
+version: 1.0.0
+date-released: 2026-10-21
+license: MIT
+authors:
+  - family-names: "TODO"
+    given-names: "TODO"
+    note: "fill in the author list and affiliation before publication"
+type: software
