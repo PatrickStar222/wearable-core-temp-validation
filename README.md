@@ -1,0 +1,1 @@
+# wearable-core-temp-validation
